@@ -14,27 +14,28 @@ I'm a **Software Engineer specializing in AI**, recently graduated from **Avigno
 
 ---
 
-### 💻 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 
-### 🌐 Frameworks & Databases
-**Backend/Web:**
+### Frameworks
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
-**DataBases:**
+
+### DataBases
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)
 
-### 🧠 LLM & Generative AI
+### LLM & Generative AI
 
 ![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=langchain)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
@@ -43,7 +44,7 @@ I'm a **Software Engineer specializing in AI**, recently graduated from **Avigno
 ![FAISS](https://img.shields.io/badge/-FAISS-000?&logo=meta)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-000?&logo=googlecloudstorage)
 
-### 🧪 AI Libraries & Tools
+### AI Libraries & Tools
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
@@ -52,7 +53,7 @@ I'm a **Software Engineer specializing in AI**, recently graduated from **Avigno
 ![LangFlow](https://img.shields.io/badge/-LangFlow-000?&logo=python)
 ![n8n](https://img.shields.io/badge/-n8n-000?&logo=n8n)
 
-### ⚙️ MLOps & DevOps
+### MLOps & DevOps
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![MLflow](https://img.shields.io/badge/-MLflow-000?&logo=mlflow)
@@ -60,7 +61,7 @@ I'm a **Software Engineer specializing in AI**, recently graduated from **Avigno
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=githubactions)
 
-### 🛠️ Tools & Practices
+### Tools & Practices
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
