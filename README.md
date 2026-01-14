@@ -1,6 +1,6 @@
 # Hi there, I'm Mustapha Genouiz 👋
 
-I'm a **Software Engineer specializing in AI**, recently graduated with a Master's from **Avignon Université**. I focus on building end-to-end AI-based solutions that are efficient, scalable, and production-ready. I bridge the gap between complex machine learning research and impactful business applications.
+I'm a **Software Engineer specializing in AI**, recently graduated with a Master's from **Avignon Université**. I focus on building end-to-end AI-based solutions that are efficient, scalable, and production-ready.
 
 ## 🎓 Education
 
@@ -15,56 +15,49 @@ I'm a **Software Engineer specializing in AI**, recently graduated with a Master
 ---
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/C-333333?style=flat&logo=c)
 
 ### 🧠 LLM & Generative AI
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/-RAG-blue)
-![FAISS](https://img.shields.io/badge/-FAISS-000?logo=facebook&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-yellow)
-![OpenRouter](https://img.shields.io/badge/-OpenRouter-black)
+![LangChain](https://img.shields.io/badge/LangChain-333333?style=flat&logo=langchain)
+![OpenAI](https://img.shields.io/badge/OpenAI-333333?style=flat&logo=openai)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-333333?style=flat&logo=huggingface)
+![FAISS](https://img.shields.io/badge/FAISS-333333?style=flat&logo=meta)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-333333?style=flat)
+![RAG](https://img.shields.io/badge/RAG-333333?style=flat)
 
 ### 🧪 AI Libraries & Tools
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![LangFlow](https://img.shields.io/badge/-LangFlow-000?logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-FF6D5B?logo=n8n&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-333333?style=flat&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=flat&logo=opencv)
+![n8n](https://img.shields.io/badge/n8n-333333?style=flat&logo=n8n)
 
 ### ⚙️ MLOps & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
-![CircleCI](https://img.shields.io/badge/-CircleCI-343434?logo=circleci&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-black)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
+![MLflow](https://img.shields.io/badge/MLflow-333333?style=flat&logo=mlflow)
+![CircleCI](https://img.shields.io/badge/CircleCI-333333?style=flat&logo=circleci)
+![Grafana](https://img.shields.io/badge/Grafana-333333?style=flat&logo=grafana)
+![CI/CD](https://img.shields.io/badge/CI/CD-333333?style=flat)
 
 ### 🌐 Frameworks & Databases
-**Backend/Web:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+**Backend/Web:**
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-333333?style=flat&logo=springboot)
+![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular)
 
-**Data:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
+**DataBases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
+![Hadoop](https://img.shields.io/badge/Hadoop-333333?style=flat&logo=apachehadoop)
 
 ### 🛠️ Tools & Practices
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile/Scrum-blue)
-![Confluence](https://img.shields.io/badge/-Confluence-0052CC?logo=confluence&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Mustapha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
+![Jira](https://img.shields.io/badge/Jira-333333?style=flat&logo=jira)
+![Agile](https://img.shields.io/badge/Agile-333333?style=flat)
